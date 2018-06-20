@@ -52,7 +52,7 @@ WHY DO 22% OF PATIENTS MISS THEIR SCHEDULED APPOINTMENTS?
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/handicap.png"/></div>
 
 
-## Second Step: Data Cleaning (1/10)
+## Second Step: Feature Selection  (1/10)
 ### 2.1 Scheduled Day
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/scheduledday.png"/></div>
 
@@ -91,7 +91,7 @@ WHY DO 22% OF PATIENTS MISS THEIR SCHEDULED APPOINTMENTS?
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/sms_received.png"/></div>
 
 
-## Third Step: Data Cleaning (1/11)
+## Third Step: Building Models (1/11)
 ### 3.1 KNN
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/knn.png"/></div>
 
