@@ -143,4 +143,4 @@ WHY DO 22% OF PATIENTS MISS THEIR SCHEDULED APPOINTMENTS?
 * Extreme values can affect final result (remove it!)
 * Feature selection is important, manually select is as effective as with using methodology
 * Sometimes the relationship between features and the prediction result is inexplicable
-* Precise prediction is not as easy as we think, our best error rate is <span style="color: red"> 19.23% </span> (Naïve Bayes)
+* Precise prediction is not as easy as we think, our best error rate is <span style="color: red"><strong>19.23%</strong></span> (Naïve Bayes)
