@@ -15,7 +15,7 @@ WHY DO 22% OF PATIENTS MISS THEIR SCHEDULED APPOINTMENTS?
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/methodology.png"/></div>
 
 
-## First Step: Data Cleaning (1/8)
+## First Step: Data Cleaning
 ### 1.0 Data Overview
   1. Typos
   2. Empty Values
@@ -23,36 +23,29 @@ WHY DO 22% OF PATIENTS MISS THEIR SCHEDULED APPOINTMENTS?
   
 <br><strong>GOAL: Make sure all the data we need is accurate and will not influence the overall result.</strong>
 
-## First Step: Data Cleaning (2/8)
 ### 1.1 ScheduledDay
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/ScheduleDay.png"/></div>
 
-## First Step: Data Cleaning (3/8)
 ### 1.2 AppointmentDay
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/appointmentday.png"/></div>
 
-## First Step: Data Cleaning (4/8)
 ### 1.3 Day interval between ScheduledDay & AppointmentDay
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/DayIntervalBetweenScheduleedDay.png"/></div>
 
-## First Step: Data Cleaning (5/8)
 ### 1.4 Age
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/Age.png"/></div>
 
-## First Step: Data Cleaning (6/8)
 ### 1.5 Scholarship, Hypertension & Diabetes
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/Scholarship.png"/></div>
 
-## First Step: Data Cleaning (7/8)
 ### 1.6 Alcoholism & SMS_received
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/Alcoholism.png"/></div>
 
-## First Step: Data Cleaning (8/8)
 ### 1.7 Handicap
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/handicap.png"/></div>
 
 
-## Second Step: Feature Selection  (1/10)
+## Second Step: Feature Selection 
 ### 2.1 Scheduled Day
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/scheduledday.png"/></div>
 
@@ -91,7 +84,7 @@ WHY DO 22% OF PATIENTS MISS THEIR SCHEDULED APPOINTMENTS?
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/sms_received.png"/></div>
 
 
-## Third Step: Building Models (1/11)
+## Third Step: Building Models
 ### 3.1 KNN
 <div align=center><img width="500" height="250" src="https://github.com/haoweichen/MEDICAL-APPOINTMENT-NO-SHOWS/blob/master/knn.png"/></div>
 
